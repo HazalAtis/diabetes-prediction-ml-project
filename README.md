@@ -70,9 +70,10 @@ cd diabetes-ml-prediction
 📎 [Click here to open the notebook in Google Colab](https://colab.research.google.com/drive/15bqKRl_2NsfAMXfhcHykiesaIfSQ0nnL?usp=sharing)
 
 
----
+## 🚀 Live Demo
 
-## 🚀 Live App
+🧪 Try the [Live Diabetes Risk Predictor](https://huggingface.co/spaces/HazelAtis/diabetes-predictor)
+
 ---
 
 🔍 Clustering Analysis (Unsupervised Learning)
